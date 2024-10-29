@@ -10,7 +10,7 @@ You can connect to your MySQL Database with the script.
 
 ## Appendix
 
-- **Don't forget add the [JDBC](https://dev.mysql.com/downloads/connector/j/) connector driver to the project** 
+- **Don't forget add the [JDBC](https://dev.mysql.com/downloads/connector/j/) connector driver to the project.** 
 
 ## License
 
